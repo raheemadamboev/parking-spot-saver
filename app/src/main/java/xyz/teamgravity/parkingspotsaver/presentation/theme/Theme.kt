@@ -1,4 +1,4 @@
-package xyz.teamgravity.parkingspotsaver.ui.theme
+package xyz.teamgravity.parkingspotsaver.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
