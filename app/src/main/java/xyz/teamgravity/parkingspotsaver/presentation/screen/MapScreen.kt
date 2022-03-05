@@ -58,7 +58,7 @@ fun MapScreen() {
                         viewmodel.onEvent(MapViewModel.MapEvent.InfoWindowLongClick(spot))
                     },
                     onClick = {
-                        it.showInfoWindow()˚
+                        it.showInfoWindow()
                         true
                     },
                     icon = BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN)
